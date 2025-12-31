@@ -7,8 +7,6 @@ from .__version__ import __version__, __version_info__
 __author__ = "Kuldeep Pisda"
 __email__ = "kdpisda@gmail.com"
 
-default_app_config = "django_rls.apps.DjangoRLSConfig"
-
 # Define what's available for import
 __all__ = [
     "__version__",
